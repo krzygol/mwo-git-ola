@@ -4,4 +4,8 @@ public class SomeProgram {
         System.out.println("We will be Git experts, soon.");
         System.out.println("My new text - KG");
     }
+
+    public static void ManageSatellites() {
+        System.out.println("ManageSatellites() function");
+    }
 }
