@@ -12,4 +12,8 @@ public class SomeProgram {
     public static void ManageSatellites() {
         System.out.println("ManageSatellites() function");
     }
+
+    public static void ManageSatellites2() {
+        System.out.println("ManageSatellites2() function");
+    }
 }
