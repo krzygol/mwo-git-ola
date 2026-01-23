@@ -5,8 +5,8 @@ public class SomeProgram {
         System.out.println("My new text - KG");
     }
 
-    public static void ManageRockets() {
-        // todo something
+    public static void ManageRockets2() {
+        System.out.println("ManageRockets2() function");
     }
 
     public static void ManageSatellites() {
